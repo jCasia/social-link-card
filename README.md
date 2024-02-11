@@ -5,3 +5,7 @@ I havent coded frontend in a while and wanted to refresh my memory so I'm going 
 ### I built this project using:
 
 - React with Vite
+
+### Here's screenshots of the project:
+
+![](./src/images/sc.png)
